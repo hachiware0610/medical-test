@@ -1,3 +1,24 @@
 {
-  "reported_pmids": {}
+  "reported_pmids": {
+    "41944160": {
+      "title": "Prognostic Value of Angiographic Microcirculatory Resistance After Coronary Intervention: Insights From the FAVOR III China Trial.",
+      "reported_at": "2026-04-26T13:22:17.358323"
+    },
+    "41859904": {
+      "title": "Effect of 2 Weeks of Time-Restricted Eating on Innate Immunity and Systemic Inflammation in Patients With a History of Myocardial Infarction: A Randomized-Controlled Crossover Study.",
+      "reported_at": "2026-04-26T13:22:17.358323"
+    },
+    "42017316": {
+      "title": "Comparative Efficacy of Statins Versus PCSK9 Inhibitors in Coronary Heart Disease Treatment.",
+      "reported_at": "2026-04-26T13:22:17.358323"
+    },
+    "42033436": {
+      "title": "A Novel Breast Arterial Calcification Age-Based Percentile Nomogram for the Incremental Prediction of Incidental Cardiovascular Events.",
+      "reported_at": "2026-04-26T13:22:17.358323"
+    },
+    "42017236": {
+      "title": "Association Between Cardiovascular Polygenic Risk and White Matter Hyperintensities: An Observational Study From the UK Biobank.",
+      "reported_at": "2026-04-26T13:22:17.358323"
+    }
+  }
 }
