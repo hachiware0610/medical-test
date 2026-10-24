@@ -1,89 +1,5 @@
 {
   "reported_pmids": {
-    "41944160": {
-      "title": "Prognostic Value of Angiographic Microcirculatory Resistance After Coronary Intervention: Insights From the FAVOR III China Trial.",
-      "reported_at": "2026-04-26T13:22:17.358323"
-    },
-    "41859904": {
-      "title": "Effect of 2 Weeks of Time-Restricted Eating on Innate Immunity and Systemic Inflammation in Patients With a History of Myocardial Infarction: A Randomized-Controlled Crossover Study.",
-      "reported_at": "2026-04-26T13:22:17.358323"
-    },
-    "42017316": {
-      "title": "Comparative Efficacy of Statins Versus PCSK9 Inhibitors in Coronary Heart Disease Treatment.",
-      "reported_at": "2026-04-26T13:22:17.358323"
-    },
-    "42033436": {
-      "title": "A Novel Breast Arterial Calcification Age-Based Percentile Nomogram for the Incremental Prediction of Incidental Cardiovascular Events.",
-      "reported_at": "2026-04-26T13:22:17.358323"
-    },
-    "42017236": {
-      "title": "Association Between Cardiovascular Polygenic Risk and White Matter Hyperintensities: An Observational Study From the UK Biobank.",
-      "reported_at": "2026-04-26T13:22:17.358323"
-    },
-    "41954064": {
-      "title": "Long-Term Outcomes With Class 1C Antiarrhythmic Drug Use in Atrial Fibrillation.",
-      "reported_at": "2026-04-26T14:15:16.629148"
-    },
-    "42003583": {
-      "title": "Blood Biomarkers and the Risk of Coronary Disease in Atrial Fibrillation.",
-      "reported_at": "2026-04-26T14:15:16.629148"
-    },
-    "41884891": {
-      "title": "Nonoptimal Temperature and Cardiovascular Health: A Scientific Statement From the American Heart Association.",
-      "reported_at": "2026-04-26T14:15:16.629148"
-    },
-    "42009571": {
-      "title": "Current evidence for diagnosis and management of cardiac vasculitis.",
-      "reported_at": "2026-04-26T14:15:16.629148"
-    },
-    "42017355": {
-      "title": "Pregnancy in women with autoimmune diseases and cardiovascular risk in the offspring: a Swedish population-based cohort study.",
-      "reported_at": "2026-04-26T14:15:16.629148"
-    },
-    "41670570": {
-      "title": "Heart Failure Prevention: Evidence Generation, Trial Design, and Regulatory Pathways.",
-      "reported_at": "2026-04-26T14:25:48.135773"
-    },
-    "41983291": {
-      "title": "Social Disconnection, Genetic Risk, and the Incidence of Degenerative Valvular Heart Disease: A Population-Based Cohort Study.",
-      "reported_at": "2026-04-26T14:25:48.135773"
-    },
-    "41988978": {
-      "title": "High-Salt Diet-Induced Endothelial Dysfunction Is Mediated by Cellular Senescence.",
-      "reported_at": "2026-04-26T14:25:48.135773"
-    },
-    "41988974": {
-      "title": "Association of Left Ventricular Function With Cerebral Small Vessel Disease and Cognition.",
-      "reported_at": "2026-04-26T14:25:48.135773"
-    },
-    "41954050": {
-      "title": "Association Between Calcium Supplementation and Recurrence of Cardiovascular Events in Patients With Cardiovascular Disease: A Population-Based Cohort Study.",
-      "reported_at": "2026-04-26T14:25:48.135773"
-    },
-    "41960759": {
-      "title": "Perceived Inadequate Neighborhood Food Shopping and Cardiovascular Disease Risk: The Multi-Ethnic Study of Atherosclerosis.",
-      "reported_at": "2026-04-26T14:30:21.037214"
-    },
-    "40780824": {
-      "title": "Cardiovascular disease in Sickle cell: mechanisms, diagnostics and therapeutic advances.",
-      "reported_at": "2026-04-27T00:02:42.261477"
-    },
-    "41954058": {
-      "title": "RoMa: A Cardiopulmonary Exercise Testing Based Risk Tool in Hypertrophic Cardiomyopathy.",
-      "reported_at": "2026-04-27T00:02:42.261477"
-    },
-    "41853846": {
-      "title": "Memantine for Premature Atrial Contractions: A Phase 2 Randomized Clinical Trial.",
-      "reported_at": "2026-04-27T00:02:42.261477"
-    },
-    "42024568": {
-      "title": "Randomized Trial of Left Bundle Branch Pacing vs Right Ventricular Pacing in Vulnerable Cardiac Function.",
-      "reported_at": "2026-04-27T00:02:42.261477"
-    },
-    "42015667": {
-      "title": "Epidemiological trends in hypertrophic cardiomyopathy in adults - a Swedish nationwide registry study.",
-      "reported_at": "2026-04-27T00:02:42.261477"
-    },
     "40444814": {
       "title": "Pre-treatment lysis time of plasma-derived fibrin clots and bleeding in patients on oral anticoagulants for atrial fibrillation in the ARISTOTLE trial.",
       "reported_at": "2026-04-28T07:41:50.426692"
@@ -3523,6 +3439,18 @@
     "42896748": {
       "title": "In-Hospital Mortality After Aortic Valve Replacement Surgical Versus Transcatheter: A Nationwide Study with Machine Learning-Based Risk Prediction.",
       "reported_at": "2026-10-23T00:27:06.977798"
+    },
+    "42913094": {
+      "title": "Short-term safety, feasibility, and performance of a novel soft robotic biventricular mechanical circulatory support device avoiding blood contact - The MISSION reBEAT trial.",
+      "reported_at": "2026-10-24T00:20:28.324473"
+    },
+    "42909432": {
+      "title": "Cardiac Resynchronization Therapy Using a Conduction System Pacing Defibrillation Lead in Patients Meeting CRT-D Indications: Six-Month Clinical Outcomes Results From the ASCEND CSP Study.",
+      "reported_at": "2026-10-24T00:20:28.324473"
+    },
+    "42911155": {
+      "title": "Pulsed Field Ablation of the Left Atrial Appendage Before Mechanical Closure to Reduce Peri-Device Leak (STUN-AF).",
+      "reported_at": "2026-10-24T00:20:28.324473"
     }
   }
 }
