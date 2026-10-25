@@ -1,25 +1,5 @@
 {
   "reported_pmids": {
-    "40444814": {
-      "title": "Pre-treatment lysis time of plasma-derived fibrin clots and bleeding in patients on oral anticoagulants for atrial fibrillation in the ARISTOTLE trial.",
-      "reported_at": "2026-04-28T07:41:50.426692"
-    },
-    "42045054": {
-      "title": "Atrial cardiomyopathy and systemic organ crosstalk: from mechanisms to clinical implications.",
-      "reported_at": "2026-04-28T07:41:50.426692"
-    },
-    "42035938": {
-      "title": "Cognitive Function and Anticoagulation Discontinuation in Patients Without Long-Term Recurrence After Catheter Ablation for Atrial Fibrillation: A Substudy of the ALONE-AF Trial.",
-      "reported_at": "2026-04-28T07:41:50.426692"
-    },
-    "41849763": {
-      "title": "Prognostic Factors for Long-Term Risk of Stroke After Transient Ischemic Attack or Minor Stroke: A Systematic Review and Meta-Analysis.",
-      "reported_at": "2026-04-28T07:41:50.426692"
-    },
-    "41956264": {
-      "title": "Distinct mechanistic features of atrial fibrillation in hypertrophic cardiomyopathy.",
-      "reported_at": "2026-04-28T07:41:50.426692"
-    },
     "40947142": {
       "title": "Revascularisation strategies for non-acute myocardial ischaemic syndromes.",
       "reported_at": "2026-04-29T06:43:37.999022"
@@ -3471,6 +3451,26 @@
     "42901461": {
       "title": "Long-term associations between participation in sport-health gateways, functional capacity and health behaviors: the Limousin Sport Santé cohort study, France.",
       "reported_at": "2026-10-25T00:04:13.316792"
+    },
+    "42924847": {
+      "title": "Lipoprotein(a) and Risk Stratification for Atherosclerotic Cardiovascular Disease Across the Cardiovascular-Kidney-Metabolic Continuum.",
+      "reported_at": "2026-10-25T23:54:29.631959"
+    },
+    "42924843": {
+      "title": "Testosterone, Testosterone Replacement Therapy, and Cardiovascular Disease: A Contemporary Review.",
+      "reported_at": "2026-10-25T23:54:29.631959"
+    },
+    "42924855": {
+      "title": "Physical Activity and Cardiovascular Risk in Type 2 Diabetes With Normal Body Mass Index and Abdominal Obesity: A Nationwide Cohort Study.",
+      "reported_at": "2026-10-25T23:54:29.631959"
+    },
+    "42924838": {
+      "title": "Integrative Genomic Analyses Identify <i>Collagen Type XXI Alpha 1 Chain</i> and <i>ENPEP-Fibroblast Growth Factor 5</i> Regulatory Pathways for Blood Pressure Variation in East Asian People.",
+      "reported_at": "2026-10-25T23:54:29.631959"
+    },
+    "42906088": {
+      "title": "<i>Helicobacter pylori</i> Infection - Advances, Challenges, and the Road Ahead.",
+      "reported_at": "2026-10-25T23:54:29.631959"
     }
   }
 }
