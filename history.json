@@ -1,25 +1,5 @@
 {
   "reported_pmids": {
-    "40947142": {
-      "title": "Revascularisation strategies for non-acute myocardial ischaemic syndromes.",
-      "reported_at": "2026-04-29T06:43:37.999022"
-    },
-    "42048680": {
-      "title": "Association of the residual SYNTAX score on clinical outcomes in patients with acute coronary syndrome.",
-      "reported_at": "2026-04-29T06:43:37.999022"
-    },
-    "42047190": {
-      "title": "Sex Differences in Prognostic Implications of CYP2C19 Genotype After Drug-Eluting Stent Implantation.",
-      "reported_at": "2026-04-29T06:43:37.999022"
-    },
-    "42044785": {
-      "title": "Comparison of percutaneous Intervention with dRug Coated balloons and drug Eluting stents for de novo coronary artery disease: CIRCE, a systematic review and meta-analysis.",
-      "reported_at": "2026-04-29T06:43:37.999022"
-    },
-    "42017326": {
-      "title": "Resource Use Following Revascularization for Multivessel Coronary Artery Disease.",
-      "reported_at": "2026-04-29T06:43:37.999022"
-    },
     "42055655": {
       "title": "Balloon Pulmonary Angioplasty for Treatment of Chronic Thromboembolic Pulmonary Hypertension: Statement From the BPA-CTEPH Alliance.",
       "reported_at": "2026-04-30T07:38:14.503078"
@@ -3471,6 +3451,26 @@
     "42906088": {
       "title": "<i>Helicobacter pylori</i> Infection - Advances, Challenges, and the Road Ahead.",
       "reported_at": "2026-10-25T23:54:29.631959"
+    },
+    "42234492": {
+      "title": "Safety of low lipoprotein(a) levels: the FOURIER trial.",
+      "reported_at": "2026-10-27T01:16:11.112278"
+    },
+    "42913986": {
+      "title": "CATHETER ABLATION VERSUS SHAM FOR SYMPTOMATIC ATRIAL FIBRILLATION: A SYSTEMATIC REVIEW AND BAYESIAN META-ANALYSIS OF RANDOMIZED TRIALS.",
+      "reported_at": "2026-10-27T01:16:11.112278"
+    },
+    "42909425": {
+      "title": "Three ablation strategies using very high-power short-duration catheter in paroxysmal atrial fibrillation: The Q-INDEX randomized trial.",
+      "reported_at": "2026-10-27T01:16:11.112278"
+    },
+    "42925956": {
+      "title": "Practical Prevention of Heart Failure Across Stages A and B: A Scientific Statement From the Japanese Heart Failure Society.",
+      "reported_at": "2026-10-27T01:16:11.112278"
+    },
+    "42857972": {
+      "title": "Cardiac Reverse Remodeling and Clinical Outcomes Following Angiotensin Receptor-Neprilysin Inhibitor Therapy in Heart Failure With Reduced Ejection Fraction.",
+      "reported_at": "2026-10-27T01:16:11.112278"
     }
   }
 }
