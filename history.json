@@ -1,25 +1,5 @@
 {
   "reported_pmids": {
-    "42055655": {
-      "title": "Balloon Pulmonary Angioplasty for Treatment of Chronic Thromboembolic Pulmonary Hypertension: Statement From the BPA-CTEPH Alliance.",
-      "reported_at": "2026-04-30T07:38:14.503078"
-    },
-    "42019018": {
-      "title": "Three Low-Dose Antihypertensive Agents in a Single Pill after Intracerebral Hemorrhage.",
-      "reported_at": "2026-04-30T07:38:14.503078"
-    },
-    "42048256": {
-      "title": "Multi-modality non-invasive cardiovascular screening and sex-specific outcomes: the Viborg Screening Program.",
-      "reported_at": "2026-04-30T07:38:14.503078"
-    },
-    "42037456": {
-      "title": "Comorbidity Clusters in Acute Heart Failure: Insights From the AMERICCAASS Registry.",
-      "reported_at": "2026-04-30T07:38:14.503078"
-    },
-    "42055806": {
-      "title": "Derivation and validation of a prediction model for long-term mortality in patients with ST-segment elevation myocardial infarction undergoing percutaneous coronary intervention: the PREDICT-ST-Elevation Myocardial Infarction score.",
-      "reported_at": "2026-04-30T07:38:14.503078"
-    },
     "40830044": {
       "title": "Asthma and risk of degenerative valvular heart disease: a prospective cohort study.",
       "reported_at": "2026-05-01T07:25:13.048108"
@@ -3471,6 +3451,26 @@
     "42857972": {
       "title": "Cardiac Reverse Remodeling and Clinical Outcomes Following Angiotensin Receptor-Neprilysin Inhibitor Therapy in Heart Failure With Reduced Ejection Fraction.",
       "reported_at": "2026-10-27T01:16:11.112278"
+    },
+    "42933913": {
+      "title": "Safety and Effectiveness of a Novel Laser-Based Intravascular Lithotripsy System for Coronary Calcium: FRACTURE Study.",
+      "reported_at": "2026-10-28T01:01:19.659736"
+    },
+    "42670965": {
+      "title": "Milvexian with Antiplatelet Therapy after Acute Coronary Syndrome Event.",
+      "reported_at": "2026-10-28T01:01:19.659736"
+    },
+    "42914044": {
+      "title": "Clinical Implementation of Angiography-Derived Fractional Flow Reserve for Revascularization Guidance: Initial Multicenter United States Experience.",
+      "reported_at": "2026-10-28T01:01:19.659736"
+    },
+    "42914043": {
+      "title": "Management of Antiplatelet Regimen During Surgical Procedures: a Report from the MARS Registry.",
+      "reported_at": "2026-10-28T01:01:19.659736"
+    },
+    "42185072": {
+      "title": "Interleukin-6 and C-reactive protein prognostic value following acute coronary syndrome.",
+      "reported_at": "2026-10-28T01:01:19.659736"
     }
   }
 }
