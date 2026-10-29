@@ -1,25 +1,5 @@
 {
   "reported_pmids": {
-    "40830044": {
-      "title": "Asthma and risk of degenerative valvular heart disease: a prospective cohort study.",
-      "reported_at": "2026-05-01T07:25:13.048108"
-    },
-    "42037444": {
-      "title": "Long-Term Outcomes of Transcatheter Aortic Valve Replacement in Low-Flow Low-Gradient Aortic Stenosis: A Reconstructed Time-to-Event and Multivariate Meta-Analysis.",
-      "reported_at": "2026-05-01T07:25:13.048108"
-    },
-    "42030119": {
-      "title": "Combined transcatheter mitral and tricuspid edge-to-edge repair or tricuspid edge-to-edge repair alone in moderate mitral regurgitation: a propensity-matched analysis.",
-      "reported_at": "2026-05-01T07:25:13.048108"
-    },
-    "42061671": {
-      "title": "CT-Guided Risk Stratification for Selective Femoral Protection Guidewire Use in Transfemoral TAVI.",
-      "reported_at": "2026-05-01T07:25:13.048108"
-    },
-    "41765256": {
-      "title": "Association of GLP-1 Receptor Agonist and SGLT2 Inhibitor With Cardiovascular Outcomes After Transcatheter Aortic Valve Replacement.",
-      "reported_at": "2026-05-01T07:25:13.048108"
-    },
     "42047197": {
       "title": "Sex-Specific Prognostic Value of Left Atrioventricular Coupling Index in Acute Coronary Syndrome: Insights From Artificial Intelligence-Enhanced 3-Dimensional Echocardiography.",
       "reported_at": "2026-05-02T06:00:31.664158"
@@ -3471,6 +3451,26 @@
     "42185072": {
       "title": "Interleukin-6 and C-reactive protein prognostic value following acute coronary syndrome.",
       "reported_at": "2026-10-28T01:01:19.659736"
+    },
+    "42933915": {
+      "title": "Periprocedural Pulmonary Hypertension and Outcomes After Mitral Valve Transcatheter Edge-to-Edge Repair.",
+      "reported_at": "2026-10-29T01:38:06.062710"
+    },
+    "42946534": {
+      "title": "Cortisol in cardio-kidney-metabolic disease.",
+      "reported_at": "2026-10-29T01:38:06.062710"
+    },
+    "42946324": {
+      "title": "HFSA Scientific Statement on Right Heart Failure.",
+      "reported_at": "2026-10-29T01:38:06.062710"
+    },
+    "42048256": {
+      "title": "Multi-modality non-invasive cardiovascular screening and sex-specific outcomes: the Viborg Screening Program.",
+      "reported_at": "2026-10-29T01:38:06.062710"
+    },
+    "42922447": {
+      "title": "Association of Obesity With Intracranial Hemodynamic Alterations.",
+      "reported_at": "2026-10-29T01:38:06.062710"
     }
   }
 }
