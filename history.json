@@ -1,45 +1,5 @@
 {
   "reported_pmids": {
-    "42047197": {
-      "title": "Sex-Specific Prognostic Value of Left Atrioventricular Coupling Index in Acute Coronary Syndrome: Insights From Artificial Intelligence-Enhanced 3-Dimensional Echocardiography.",
-      "reported_at": "2026-05-02T06:00:31.664158"
-    },
-    "41679411": {
-      "title": "Cardiovascular Magnetic Resonance-based Tissue Characteristics and Clinical Outcomes in Apical Hypertrophic Cardiomyopathy.",
-      "reported_at": "2026-05-02T06:00:31.664158"
-    },
-    "42052973": {
-      "title": "Acute Impact of Transcatheter Edge-to-Edge Repair of Tricuspid Regurgitation on Right Ventricular Hemodynamics.",
-      "reported_at": "2026-05-02T06:00:31.664158"
-    },
-    "41636663": {
-      "title": "Immediate vs Delayed Coronary Angiography After Cardiac Arrest Without ST-Segment Elevation: 5-Year Outcomes From the COACT Randomized Trial.",
-      "reported_at": "2026-05-02T06:00:31.664158"
-    },
-    "41919388": {
-      "title": "Cardiovascular-Kidney-Metabolic Syndrome Stages, Echocardiographic Characteristics, and Heart Failure Risk: The Atherosclerosis Risk in Communities Study.",
-      "reported_at": "2026-05-02T06:00:31.664158"
-    },
-    "42067048": {
-      "title": "Combined Impact of Cardiorespiratory Fitness and Exercise Systolic Blood Pressure on Cardiovascular and All-Cause Mortality: A Long-Term Follow-up Study.",
-      "reported_at": "2026-05-03T00:11:51.590260"
-    },
-    "41824552": {
-      "title": "2026 ACC/AHA/AACVPR/ABC/ACPM/ADA/AGS/APhA/ASPC/NLA/PCNA Guideline on the Management of Dyslipidemia: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines.",
-      "reported_at": "2026-05-03T00:11:51.590260"
-    },
-    "42047206": {
-      "title": "Think FAST: Knowledge of Appropriate Action of Stroke Signs and Symptoms Among US Adults, February-March 2025.",
-      "reported_at": "2026-05-03T00:11:51.590260"
-    },
-    "42047198": {
-      "title": "SVO70 (Optimal Target Low-Density Lipoprotein Cholesterol Level for Small Vessel Occlusion Stroke): Rationale and Study Design.",
-      "reported_at": "2026-05-03T00:11:51.590260"
-    },
-    "42047187": {
-      "title": "Walking Pace Optimizes Conventional Cardiovascular Disease Risk Prediction Models Among Vulnerable Subpopulations: A Prospective Cohort Study.",
-      "reported_at": "2026-05-03T00:11:51.590260"
-    },
     "41771073": {
       "title": "The efficacy and safety of qiliqiangxin according to baseline ejection fraction in patients with heart failure and reduced ejection fraction in QUEST.",
       "reported_at": "2026-05-04T08:07:28.458031"
@@ -3471,6 +3431,22 @@
     "42922447": {
       "title": "Association of Obesity With Intracranial Hemodynamic Alterations.",
       "reported_at": "2026-10-29T01:38:06.062710"
+    },
+    "41771063": {
+      "title": "Mitral regurgitation in patients with heart failure and reduced ejection fraction: insights from GALACTIC-HF.",
+      "reported_at": "2026-10-30T01:38:40.792828"
+    },
+    "42933917": {
+      "title": "Impact of Recurrent Mitral Regurgitation Following Mitral Transcatheter Edge-to-Edge Repair on Long-Term Outcomes.",
+      "reported_at": "2026-10-30T01:38:40.792828"
+    },
+    "42934200": {
+      "title": "Outcomes of Hypoplastic Left Heart Syndrome by Subtype and Presence of Ventriculocoronary Connections: A Fetal Heart Society Multicenter Retrospective Study.",
+      "reported_at": "2026-10-30T01:38:40.792828"
+    },
+    "42924766": {
+      "title": "PASCAL Precision System Outcomes by Implant Location and Lesion Location in Degenerative Mitral Regurgitation Patients From the STS/ACC TVT Registry.",
+      "reported_at": "2026-10-30T01:38:40.792828"
     }
   }
 }
