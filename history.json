@@ -1,25 +1,5 @@
 {
   "reported_pmids": {
-    "40778905": {
-      "title": "Risk factors associated with ventricular fibrillation during first ST-elevation myocardial infarction: Individual participant data analysis of 3 prospective case-control studies.",
-      "reported_at": "2026-05-05T06:31:47.578921"
-    },
-    "40449820": {
-      "title": "Atrial fibrillation is associated with ventricular tachyarrhythmias or cardiac arrest in heart failure with preserved ejection fraction.",
-      "reported_at": "2026-05-05T06:31:47.578921"
-    },
-    "41354227": {
-      "title": "Empirical cryoballoon-based left atrial appendage isolation followed by closure, including cases with LAA thrombosis, in patients with persistent atrial fibrillation and durable pulmonary vein isolation: Feasibility and long-term outcomes (CB LAAI + LAAC after durable PVI in persistent AF).",
-      "reported_at": "2026-05-05T06:31:47.578921"
-    },
-    "40472951": {
-      "title": "Cannabis use and atrial arrhythmias: A systematic review and meta-analysis of large populational studies.",
-      "reported_at": "2026-05-05T06:31:47.578921"
-    },
-    "41389862": {
-      "title": "Adjunctive superior vena cava isolation to pulmonary vein isolation in atrial fibrillation ablation: A systematic review and meta-analysis of randomized trials.",
-      "reported_at": "2026-05-05T06:31:47.578921"
-    },
     "41679408": {
       "title": "Managing Obesity in Heart Failure Patients: Current Evidence and Strategies.",
       "reported_at": "2026-05-07T08:02:56.976724"
@@ -3463,6 +3443,26 @@
     "42929102": {
       "title": "Consensus Guidance for the Female-Specific Prevention and Management of Cardiovascular Disease: A Scientific Statement From the American Heart Association, American Academy of Pediatrics, American College of Obstetricians and Gynecologists, and Society for Maternal-Fetal Medicine.",
       "reported_at": "2026-11-01T00:46:06.308107"
+    },
+    "42668439": {
+      "title": "Effectiveness of Nurse-Coordinated, Digital-Supported Collaborative Care Model in Reducing Hospital Stay and Mortality Among Patients With Heart Failure: TIME-HF Cluster RCT (India).",
+      "reported_at": "2026-11-02T01:20:30.547769"
+    },
+    "42217207": {
+      "title": "Baseline characteristics of patients with transthyretin amyloid cardiomyopathy in the CARDIO-TTRansform trial of eplontersen.",
+      "reported_at": "2026-11-02T01:20:30.547769"
+    },
+    "41904995": {
+      "title": "Effect of vutrisiran on components of health status in transthyretin amyloidosis with cardiomyopathy: the HELIOS-B study.",
+      "reported_at": "2026-11-02T01:20:30.547769"
+    },
+    "42544039": {
+      "title": "Long-term impact of aficamten on patient-reported outcome measures in obstructive hypertrophic cardiomyopathy: results from FOREST-HCM.",
+      "reported_at": "2026-11-02T01:20:30.547769"
+    },
+    "42949742": {
+      "title": "Left Bundle-Branch Area Pacing vs Right Ventricular Pacing for Atrioventricular Block and Preserved Left Ventricular Function: The LEAP-Block Randomized Clinical Trial.",
+      "reported_at": "2026-11-02T01:20:30.547769"
     }
   }
 }
