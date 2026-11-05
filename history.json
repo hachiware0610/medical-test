@@ -1,25 +1,5 @@
 {
   "reported_pmids": {
-    "42092573": {
-      "title": "Severe Low Flow Aortic Stenosis with Preserved Ejection Fraction: Latest Diagnostic and Therapeutic Approach.",
-      "reported_at": "2026-05-08T05:49:59.174029"
-    },
-    "42082335": {
-      "title": "Global variability in bicuspid aortic valve morphology and aortopathy among patients with severe aortic stenosis referred for transcatheter valve implantation.",
-      "reported_at": "2026-05-08T05:49:59.174029"
-    },
-    "42089192": {
-      "title": "Minimally Invasive, Echocardiography-Guided Mouse Model of Degenerative Mitral Regurgitation Recapitulates Cardiac Remodeling and Arrhythmogenesis.",
-      "reported_at": "2026-05-08T05:49:59.174029"
-    },
-    "41615368": {
-      "title": "Integrated Atrial and Ventricular Strain Assessment in Patients With Severe Degenerative Mitral Regurgitation Undergoing Surgery.",
-      "reported_at": "2026-05-08T05:49:59.174029"
-    },
-    "42089167": {
-      "title": "Association of Polygenic Risk Scores With Aortic Valve Calcium: The Multi-Ethnic Study of Atherosclerosis.",
-      "reported_at": "2026-05-08T05:49:59.174029"
-    },
     "42089186": {
       "title": "Development and Validation of a Coronary Computed Tomography Angiography-Based Radiomics-Integrated Model for Noninvasive Detection of Left Atrial Appendage Thrombus in Atrial Fibrillation.",
       "reported_at": "2026-05-09T06:29:43.823537"
@@ -3483,6 +3463,26 @@
     "42969204": {
       "title": "Statin Intolerance, Treatment Gaps, and Cardiovascular Outcomes: A 24-Year Health System Analysis.",
       "reported_at": "2026-11-04T01:58:29.441864"
+    },
+    "42551818": {
+      "title": "Pulmonary Arterial Hypertension-Targeted Therapy for Pulmonary Hypertension Associated With Left Heart Disease: Bayesian and Frequentist Meta-Analysis of Randomized Controlled Trials.",
+      "reported_at": "2026-11-05T02:03:52.055059"
+    },
+    "42960746": {
+      "title": "Oral Potassium Supplementation Lowers Clinic Blood Pressure in Untreated Primary Hypertension-Systematic Review and Meta-Analysis of Randomized Trials.",
+      "reported_at": "2026-11-05T02:03:52.055059"
+    },
+    "42977045": {
+      "title": "Transcatheter edge-to-edge repair for mitral valve regurgitation: insights from a 5-year prospective multicenter registry.",
+      "reported_at": "2026-11-05T02:03:52.055059"
+    },
+    "42981223": {
+      "title": "Obesity, frail obesity, and outcomes after durable left ventricular assist device implantation: a pooled analysis of the MOMENTUM 3 trials.",
+      "reported_at": "2026-11-05T02:03:52.055059"
+    },
+    "42644782": {
+      "title": "A Coordinated Community- and Family-Based Intervention to Control Blood Pressure in Rural China: A Cluster-Randomized Trial.",
+      "reported_at": "2026-11-05T02:03:52.055059"
     }
   }
 }
