@@ -1,25 +1,5 @@
 {
   "reported_pmids": {
-    "42089186": {
-      "title": "Development and Validation of a Coronary Computed Tomography Angiography-Based Radiomics-Integrated Model for Noninvasive Detection of Left Atrial Appendage Thrombus in Atrial Fibrillation.",
-      "reported_at": "2026-05-09T06:29:43.823537"
-    },
-    "42082337": {
-      "title": "Age and sex-specific reference ranges of left ventricular strain rates and cardiovascular outcomes: the Copenhagen City Heart Study.",
-      "reported_at": "2026-05-09T06:29:43.823537"
-    },
-    "42047199": {
-      "title": "Artificial Intelligence-Enabled ECG for Elevated E/e' on Echocardiography: Hemodynamic Relevance and Prognostic Value.",
-      "reported_at": "2026-05-09T06:29:43.823537"
-    },
-    "42017322": {
-      "title": "Pulsed Ultrahigh Frequency Spinal Cord Stimulation for Arrhythmia After Myocardial Infarction.",
-      "reported_at": "2026-05-09T06:29:43.823537"
-    },
-    "42003609": {
-      "title": "Incident Atrial Fibrillation and Flutter in Patients With Pulmonary Arterial Hypertension: Influence of Right Ventricular Dilatation and Reduced Right Atrial Function.",
-      "reported_at": "2026-05-09T06:29:43.823537"
-    },
     "41553312": {
       "title": "Cardiovascular Risk Across Myocardial Injury and Infarction Categories Using the Universal Definition: An Individual Patient-Level Data Meta-Analysis.",
       "reported_at": "2026-05-10T07:19:05.688241"
@@ -3483,6 +3463,26 @@
     "42644782": {
       "title": "A Coordinated Community- and Family-Based Intervention to Control Blood Pressure in Rural China: A Cluster-Randomized Trial.",
       "reported_at": "2026-11-05T02:03:52.055059"
+    },
+    "42980633": {
+      "title": "Percutaneous Transcatheter Mitral Valve Replacement for Symptomatic Mitral Regurgitation: 2-Year Outcomes From the ENCIRCLE Trial.",
+      "reported_at": "2026-11-06T02:01:21.649249"
+    },
+    "42967235": {
+      "title": "Posterior Leaflet Restoration for Secondary Mitral Regurgitation: EXPLORE MR Results.",
+      "reported_at": "2026-11-06T02:01:21.649249"
+    },
+    "42965504": {
+      "title": "Transcatheter Aortic Valve Replacement in Pure Aortic Regurgitation: The Randomized SEASON-AR Clinical Trial.",
+      "reported_at": "2026-11-06T02:01:21.649249"
+    },
+    "42960753": {
+      "title": "Impact of Balloon-Expandable Valve Asymmetry on Heart Failure Post Transcatheter Aortic Valve Replacement.",
+      "reported_at": "2026-11-06T02:01:21.649249"
+    },
+    "42970708": {
+      "title": "TAVR in Patients with Moderate Aortic Stenosis with At-Risk Features.",
+      "reported_at": "2026-11-06T02:01:21.649249"
     }
   }
 }
