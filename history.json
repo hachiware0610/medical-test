@@ -1,25 +1,5 @@
 {
   "reported_pmids": {
-    "42037447": {
-      "title": "Mavacamten in Obstructive Hypertrophic Cardiomyopathy: National Insights on Access and Safety Profile From Real-World Data.",
-      "reported_at": "2026-05-11T10:48:49.982355"
-    },
-    "40878717": {
-      "title": "Tricuspid valve replacement outcomes by baseline tricuspid regurgitation severity: the TRISCEND II trial.",
-      "reported_at": "2026-05-11T10:48:49.982355"
-    },
-    "42106986": {
-      "title": "Ziltivekimab in heart failure with preserved and mildly reduced ejection fraction: rationale and design of the ATHENA and HERMES trials.",
-      "reported_at": "2026-05-11T10:48:49.982355"
-    },
-    "41910380": {
-      "title": "Left Ventricular Unloading in High-Risk Percutaneous Coronary Intervention.",
-      "reported_at": "2026-05-11T10:48:49.982355"
-    },
-    "42102952": {
-      "title": "Combined Enhanced External Counterpulsation and Hyperbaric Oxygen Therapy in Ischemic Cardiomyopathy: Interim Results of a Prospective Study.",
-      "reported_at": "2026-05-11T10:48:49.982355"
-    },
     "41771101": {
       "title": "EJHF expert consensus statement on the diagnosis and management of hypertrophic cardiomyopathy.",
       "reported_at": "2026-05-12T08:12:46.672845"
@@ -3483,6 +3463,26 @@
     "42470405": {
       "title": "Understanding HFpEF Through Imaging: Strengths, Limitations, and Current State of the Art.",
       "reported_at": "2026-11-07T01:42:28.864860"
+    },
+    "42667613": {
+      "title": "Digital Outreach to Improve Statin Refills in Patients With Low Statin Adherence: The ADHERE-ASCVD Randomized Clinical Trial.",
+      "reported_at": "2026-11-08T01:11:30.901248"
+    },
+    "42634937": {
+      "title": "Cf-PWV Versus ba-PWV in Predicting Cardiovascular Events: Insights From a Community-Based Cohort.",
+      "reported_at": "2026-11-08T01:11:30.901248"
+    },
+    "42417693": {
+      "title": "Cardiovascular Health Change Patterns After Multifaceted Antihypertensive Intervention and Cardiovascular Outcomes: A Post Hoc Analysis of CRHCP Trial.",
+      "reported_at": "2026-11-08T01:11:30.901248"
+    },
+    "42892134": {
+      "title": "Association between elevated lipoprotein (a) and venous thromboembolism: A systematic review and meta-analysis.",
+      "reported_at": "2026-11-08T01:11:30.901248"
+    },
+    "42708217": {
+      "title": "Macrotroponin Complexes and Risk of Cardiovascular Events.",
+      "reported_at": "2026-11-08T01:11:30.901248"
     }
   }
 }
