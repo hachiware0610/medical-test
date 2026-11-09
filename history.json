@@ -1,25 +1,5 @@
 {
   "reported_pmids": {
-    "41771101": {
-      "title": "EJHF expert consensus statement on the diagnosis and management of hypertrophic cardiomyopathy.",
-      "reported_at": "2026-05-12T08:12:46.672845"
-    },
-    "42103456": {
-      "title": "Catheter ablation and risk of major adverse cardiovascular events in high-risk patients with newly diagnosed atrial fibrillation: a target trial emulation.",
-      "reported_at": "2026-05-12T08:12:46.672845"
-    },
-    "42070125": {
-      "title": "Valve-in-Valve Transcatheter Mitral Valve Replacement Versus Redo Surgical Mitral Valve Replacement: Meta-Analysis of Early and Late Outcomes.",
-      "reported_at": "2026-05-12T08:12:46.672845"
-    },
-    "42084331": {
-      "title": "Beyond Mean Arterial Pressure: Organ Perfusion Pressure as a Hemodynamic Target in Cardiogenic Shock.",
-      "reported_at": "2026-05-12T08:12:46.672845"
-    },
-    "41993018": {
-      "title": "The Natural History of Massive Left Ventricular Hypertrophy in Pediatric Hypertrophic Cardiomyopathy: A Multiregistry Analysis.",
-      "reported_at": "2026-05-12T08:12:46.672845"
-    },
     "42089195": {
       "title": "Real-World Outcomes of FFRangio-Guided Treatment for Coronary Artery Disease in Acute Versus Chronic Coronary Syndromes.",
       "reported_at": "2026-05-13T08:23:26.667162"
@@ -3483,6 +3463,26 @@
     "42708217": {
       "title": "Macrotroponin Complexes and Risk of Cardiovascular Events.",
       "reported_at": "2026-11-08T01:11:30.901248"
+    },
+    "42993097": {
+      "title": "Ventricular arrhythmia-heart failure interaction and mortality in ICD recipients after myocardial infarction.",
+      "reported_at": "2026-11-09T01:30:10.205805"
+    },
+    "40878832": {
+      "title": "Discontinuation of renin-angiotensin system inhibitors before non-cardiac surgery: a meta-analysis.",
+      "reported_at": "2026-11-09T01:30:10.205805"
+    },
+    "41879158": {
+      "title": "Palliative care in cardiovascular medicine.",
+      "reported_at": "2026-11-09T01:30:10.205805"
+    },
+    "42986123": {
+      "title": "Efficacy of empagliflozin in heart failure with preserved ejection fraction according to the presence of echocardiographic features of diastolic dysfunction in the EMPEROR-Preserved trial.",
+      "reported_at": "2026-11-09T01:30:10.205805"
+    },
+    "42960821": {
+      "title": "Glucagon-Like Peptide-1 Receptor Agonists in Obese Heart Failure With Preserved Ejection Fraction.",
+      "reported_at": "2026-11-09T01:30:10.205805"
     }
   }
 }
