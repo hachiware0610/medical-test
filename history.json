@@ -1,25 +1,5 @@
 {
   "reported_pmids": {
-    "42089195": {
-      "title": "Real-World Outcomes of FFRangio-Guided Treatment for Coronary Artery Disease in Acute Versus Chronic Coronary Syndromes.",
-      "reported_at": "2026-05-13T08:23:26.667162"
-    },
-    "42103453": {
-      "title": "Stent thrombosis: an updated clinical overview from epidemiology to classification and management.",
-      "reported_at": "2026-05-13T08:23:26.667162"
-    },
-    "42100816": {
-      "title": "Determining the Physiological Threshold for Angina (ORBITA-FIRE): A Double-Blind, Randomized, Placebo-Controlled Study.",
-      "reported_at": "2026-05-13T08:23:26.667162"
-    },
-    "42112702": {
-      "title": "Outcomes after a first acute myocardial infarction in patients with or without congenital heart disease.",
-      "reported_at": "2026-05-13T08:23:26.667162"
-    },
-    "42112704": {
-      "title": "Ventricular free-wall rupture, ventricular pseudoaneurysm, and papillary muscle rupture complicating acute myocardial infarction.",
-      "reported_at": "2026-05-13T08:23:26.667162"
-    },
     "41920135": {
       "title": "Achieving Intensive Blood Pressure Control in High-Risk Patients: Implementation Insights From the ESPRIT Trial.",
       "reported_at": "2026-05-14T08:12:34.411223"
@@ -3483,6 +3463,26 @@
     "42960821": {
       "title": "Glucagon-Like Peptide-1 Receptor Agonists in Obese Heart Failure With Preserved Ejection Fraction.",
       "reported_at": "2026-11-09T01:30:10.205805"
+    },
+    "42998070": {
+      "title": "Cardiac electrophysiology procedures must be performed exclusively by trained electrophysiologists: A statement from the Heart Rhythm Society and Heart Rhythm Advocates.",
+      "reported_at": "2026-11-10T03:59:47.126162"
+    },
+    "42960736": {
+      "title": "Efficacy of Stellate Ganglion Block for Preventing Postoperative Atrial Fibrillation After Cardiac Surgery: A Randomized, Double-Blind, Placebo-Controlled Trial.",
+      "reported_at": "2026-11-10T03:59:47.126162"
+    },
+    "42994712": {
+      "title": "Metabolic Dysfunction-Associated Steatotic Liver Disease and Sudden Cardiac Death: Epidemiology, Mechanisms, Risk Stratification, and Prevention.",
+      "reported_at": "2026-11-10T03:59:47.126162"
+    },
+    "42770223": {
+      "title": "Real-World Experience With the Extravascular Implantable Cardioverter Defibrillator Through 1 Year: The Enlighten Post Approval Registry Study.",
+      "reported_at": "2026-11-10T03:59:47.126162"
+    },
+    "42999998": {
+      "title": "Low-Voltage Area Ablation for Persistent Atrial Fibrillation: The COAST-AF Randomized Clinical Trial.",
+      "reported_at": "2026-11-10T03:59:47.126162"
     }
   }
 }
