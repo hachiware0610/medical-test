@@ -1,25 +1,5 @@
 {
   "reported_pmids": {
-    "41920135": {
-      "title": "Achieving Intensive Blood Pressure Control in High-Risk Patients: Implementation Insights From the ESPRIT Trial.",
-      "reported_at": "2026-05-14T08:12:34.411223"
-    },
-    "41670573": {
-      "title": "Single-Pill Low-Dose Triple Combination Therapy vs Standard-Dose Monotherapy in Patients With Mild-to-Moderate Hypertension.",
-      "reported_at": "2026-05-14T08:12:34.411223"
-    },
-    "42095252": {
-      "title": "Environmental risk factors and cardiovascular health.",
-      "reported_at": "2026-05-14T08:12:34.411223"
-    },
-    "42119212": {
-      "title": "Joint associations of the systemic inflammation response index and albumin-globulin ratio with all-cause and cardiovascular mortality across cardiovascular-kidney-metabolic syndrome stages 0-3: a prospective cohort study in the UK Biobank.",
-      "reported_at": "2026-05-14T08:12:34.411223"
-    },
-    "41563174": {
-      "title": "Natriuretic Peptide Receptor-1 Agonist for Resistant Hypertension: A Randomized Phase 2 Trial.",
-      "reported_at": "2026-05-14T08:12:34.411223"
-    },
     "41780659": {
       "title": "Incidence, Predictors, and Outcomes of Stroke Following Transcatheter Aortic Valve Implantation: A Multicenter Australian Experience.",
       "reported_at": "2026-05-15T08:33:16.481180"
@@ -3483,6 +3463,26 @@
     "42999998": {
       "title": "Low-Voltage Area Ablation for Persistent Atrial Fibrillation: The COAST-AF Randomized Clinical Trial.",
       "reported_at": "2026-11-10T03:59:47.126162"
+    },
+    "42521444": {
+      "title": "Micro-axial flow pump vs veno-arterial extracorporeal membrane oxygenation for high-risk percutaneous coronary interventions: a randomized trial.",
+      "reported_at": "2026-11-11T01:45:36.673766"
+    },
+    "42085325": {
+      "title": "A nurse-coordinated intervention programme vs standard of care after an acute coronary syndrome: the ALLEPRE trial.",
+      "reported_at": "2026-11-11T01:45:36.673766"
+    },
+    "42183826": {
+      "title": "Outcomes in the BETAMI-DANBLOCK trial compared with a Norwegian nationwide myocardial infarction population.",
+      "reported_at": "2026-11-11T01:45:36.673766"
+    },
+    "42670980": {
+      "title": "Targeted Use of Computed Tomographic Coronary Angiography in Acute Chest Pain.",
+      "reported_at": "2026-11-11T01:45:36.673766"
+    },
+    "42667934": {
+      "title": "Safety and efficacy of the 0/1 h pathway for myocardial infarction in the emergency department: an international, pragmatic, stepped-wedge, cluster-randomised, controlled trial.",
+      "reported_at": "2026-11-11T01:45:36.673766"
     }
   }
 }
