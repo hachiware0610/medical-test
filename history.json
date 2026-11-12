@@ -1,25 +1,5 @@
 {
   "reported_pmids": {
-    "41780659": {
-      "title": "Incidence, Predictors, and Outcomes of Stroke Following Transcatheter Aortic Valve Implantation: A Multicenter Australian Experience.",
-      "reported_at": "2026-05-15T08:33:16.481180"
-    },
-    "42132173": {
-      "title": "Balloon-Expandable Versus Self-Expanding Prostheses for Transcatheter Treatment of Patients With Low-Flow, Low-Gradient Aortic Stenosis.",
-      "reported_at": "2026-05-15T08:33:16.481180"
-    },
-    "42009573": {
-      "title": "Artificial chords in endoscopic mitral valve repair: a comparative analysis of surgical techniques and long-term outcomes.",
-      "reported_at": "2026-05-15T08:33:16.481180"
-    },
-    "42135057": {
-      "title": "Stroke after transcatheter aortic valve implantation: incidence, temporal trends and predictors.",
-      "reported_at": "2026-05-15T08:33:16.481180"
-    },
-    "42128260": {
-      "title": "Meta-Analysis of Transcatheter Versus Surgical Aortic Valve Replacement in Low Surgical Risk Patients: An Update.",
-      "reported_at": "2026-05-15T08:33:16.481180"
-    },
     "41765252": {
       "title": "Integrating Anatomy and Ischemia in Chest Pain Evaluation.",
       "reported_at": "2026-05-16T06:40:04.202446"
@@ -3483,6 +3463,26 @@
     "42667934": {
       "title": "Safety and efficacy of the 0/1 h pathway for myocardial infarction in the emergency department: an international, pragmatic, stepped-wedge, cluster-randomised, controlled trial.",
       "reported_at": "2026-11-11T01:45:36.673766"
+    },
+    "41884984": {
+      "title": "Sex differences in cardiovascular-kidney-metabolic syndrome: the FINE-HEART pooled analysis.",
+      "reported_at": "2026-11-12T02:46:14.972478"
+    },
+    "43003595": {
+      "title": "Cardiac Damage and Clinical Outcomes in Symptomatic Severe Aortic Stenosis Undergoing Transcatheter Aortic Valve Replacement.",
+      "reported_at": "2026-11-12T02:46:14.972478"
+    },
+    "42998062": {
+      "title": "Multivessel Assessment by Angiography-Derived Index of Microcirculatory Resistance in Patients With Nonobstructive Coronary Artery Disease.",
+      "reported_at": "2026-11-12T02:46:14.972478"
+    },
+    "43012109": {
+      "title": "Cardiovascular Health Promotion for US Veterans: Current State, Gaps, and Strategies: A Scientific Statement From the American Heart Association.",
+      "reported_at": "2026-11-12T02:46:14.972478"
+    },
+    "43007059": {
+      "title": "Piezo1 Responsiveness in Muscle Afferents and Mechanoreflex in Diabetic Rats.",
+      "reported_at": "2026-11-12T02:46:14.972478"
     }
   }
 }
