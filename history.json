@@ -1,25 +1,5 @@
 {
   "reported_pmids": {
-    "41765252": {
-      "title": "Integrating Anatomy and Ischemia in Chest Pain Evaluation.",
-      "reported_at": "2026-05-16T06:40:04.202446"
-    },
-    "42134615": {
-      "title": "Objective Assessment of Functional Capacity Improvement Following Transcatheter Tricuspid Valve Interventions.",
-      "reported_at": "2026-05-16T06:40:04.202446"
-    },
-    "41347951": {
-      "title": "Digital profile of children's hearts: automated echocardiogram strain analysis facilitates earlier detection of cardiac dysfunction.",
-      "reported_at": "2026-05-16T06:40:04.202446"
-    },
-    "42131911": {
-      "title": "Assessing Left Atrial Volume Indexation to Predict Mortality in Individuals With Overweight or Obesity.",
-      "reported_at": "2026-05-16T06:40:04.202446"
-    },
-    "42131912": {
-      "title": "Impact of the 2025 ASE Guidelines on the Classification of LV Diastolic Dysfunction in the Community: A Project Baseline Health Study.",
-      "reported_at": "2026-05-16T06:40:04.202446"
-    },
     "41785983": {
       "title": "2025 ESC/EAS Dyslipidemia Guidelines Focused Update: Intensifying Prevention, Risk Stratification, and Therapy.",
       "reported_at": "2026-05-17T07:45:37.893280"
@@ -3483,6 +3463,26 @@
     "43007059": {
       "title": "Piezo1 Responsiveness in Muscle Afferents and Mechanoreflex in Diabetic Rats.",
       "reported_at": "2026-11-12T02:46:14.972478"
+    },
+    "43003599": {
+      "title": "Prevalence and Consequences of Guideline-Directed Indications for Aortic Valve Replacement in the EARLY TAVR Trial.",
+      "reported_at": "2026-11-13T02:28:55.183153"
+    },
+    "42873164": {
+      "title": "Transseptal Transcatheter Mitral Valve Replacement for Mitral Annular Calcification: ENCIRCLE MAC Registry 1-Year Outcomes.",
+      "reported_at": "2026-11-13T02:28:55.183153"
+    },
+    "43012729": {
+      "title": "Right Heart Dysfunction in Valvular Heart Disease: Epidemiology, Prognosis, and Management Considerations.",
+      "reported_at": "2026-11-13T02:28:55.183153"
+    },
+    "43003597": {
+      "title": "Prosthesis-Patient Mismatch and Patient-Centered Outcomes After TAVR.",
+      "reported_at": "2026-11-13T02:28:55.183153"
+    },
+    "42734596": {
+      "title": "5-Year Follow-Up of Transcatheter Aortic Valve Replacement With Self-Expanding Intra-Annular Versus Commercially Available Valves.",
+      "reported_at": "2026-11-13T02:28:55.183153"
     }
   }
 }
