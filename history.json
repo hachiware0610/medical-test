@@ -1,25 +1,5 @@
 {
   "reported_pmids": {
-    "41785983": {
-      "title": "2025 ESC/EAS Dyslipidemia Guidelines Focused Update: Intensifying Prevention, Risk Stratification, and Therapy.",
-      "reported_at": "2026-05-17T07:45:37.893280"
-    },
-    "41795899": {
-      "title": "Artificial intelligence-based quantification of breast arterial calcifications to predict cardiovascular morbidity and mortality.",
-      "reported_at": "2026-05-17T07:45:37.893280"
-    },
-    "41765260": {
-      "title": "Socioeconomic Status and Long-Term Outcomes After ST-Segment Elevation Myocardial Infarction.",
-      "reported_at": "2026-05-17T07:45:37.893280"
-    },
-    "41879156": {
-      "title": "Wearable devices and cardiovascular health: revolutionizing remote monitoring and disease prevention.",
-      "reported_at": "2026-05-17T07:45:37.893280"
-    },
-    "42132202": {
-      "title": "Association of Dietary Patterns and Genetic Risk With Cardiovascular Disease in UK Biobank Cancer Survivors.",
-      "reported_at": "2026-05-17T07:45:37.893280"
-    },
     "41771112": {
       "title": "Effect of influenza vaccination in patients with decompensated heart failure: a systematic review and meta-analysis.",
       "reported_at": "2026-05-18T11:57:15.886377"
@@ -3483,6 +3463,26 @@
     "42734596": {
       "title": "5-Year Follow-Up of Transcatheter Aortic Valve Replacement With Self-Expanding Intra-Annular Versus Commercially Available Valves.",
       "reported_at": "2026-11-13T02:28:55.183153"
+    },
+    "42998293": {
+      "title": "Multimodality Cardiac Imaging Substudy of the DAPT-SHOCK-AMI Randomized Trial: Echocardiographic and Cardiac Magnetic Resonance Assessment of Cangrelor versus Crushed Ticagrelor in Cardiogenic Shock Complicating Acute Myocardial Infarction.",
+      "reported_at": "2026-11-14T02:01:25.012193"
+    },
+    "43020448": {
+      "title": "Prognostic Value of Tissue Doppler Late Diastolic Velocity (TDI-a') in Patients with Severe Aortic Stenosis Undergoing Transcatheter Aortic Valve Implantation.",
+      "reported_at": "2026-11-14T02:01:25.012193"
+    },
+    "43002247": {
+      "title": "Effects of Eplontersen on Cardiac Structure and Function in Patients With Transthyretin Amyloidosis With Cardiomyopathy: Insights from the CARDIO-TTRansform Trial.",
+      "reported_at": "2026-11-14T02:01:25.012193"
+    },
+    "41558851": {
+      "title": "Pearls and pitfalls in the diagnosis and management of mitral annular calcification.",
+      "reported_at": "2026-11-14T02:01:25.012193"
+    },
+    "43018064": {
+      "title": "Racial and Ethnic Disparities in Postarrest Cardiac Procedures for Out-of-Hospital Cardiac Arrest.",
+      "reported_at": "2026-11-14T02:01:25.012193"
     }
   }
 }
