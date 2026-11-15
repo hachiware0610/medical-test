@@ -1,25 +1,5 @@
 {
   "reported_pmids": {
-    "41771112": {
-      "title": "Effect of influenza vaccination in patients with decompensated heart failure: a systematic review and meta-analysis.",
-      "reported_at": "2026-05-18T11:57:15.886377"
-    },
-    "41107031": {
-      "title": "Prospective multicentre single-arm study of an interatrial shunt in heart failure with reduced ejection fraction (SUSTAIN-HF): 1-year clinical and haemodynamic outcomes.",
-      "reported_at": "2026-05-18T11:57:15.886377"
-    },
-    "41973411": {
-      "title": "Real-World Outcomes of Transcatheter Tricuspid Valve Replacement: Analysis From the STS/ACC TVT Registry.",
-      "reported_at": "2026-05-18T11:57:15.886377"
-    },
-    "41771106": {
-      "title": "Finerenone, polypharmacy, and clinical outcomes in heart failure: pre-specified analysis from the FINEARTS-HF trial.",
-      "reported_at": "2026-05-18T11:57:15.886377"
-    },
-    "41771088": {
-      "title": "Dipstick proteinuria and outcomes in patients with heart failure and reduced ejection fraction: insights from GALACTIC-HF.",
-      "reported_at": "2026-05-18T11:57:15.886377"
-    },
     "42140407": {
       "title": "High-Sensitivity Cardiac Troponin I for Enhanced Risk Stratification in Primary Prevention for Sudden Cardiac Death in Hypertrophic Cardiomyopathy.",
       "reported_at": "2026-05-19T10:49:17.063767"
@@ -3483,6 +3463,26 @@
     "43018064": {
       "title": "Racial and Ethnic Disparities in Postarrest Cardiac Procedures for Out-of-Hospital Cardiac Arrest.",
       "reported_at": "2026-11-14T02:01:25.012193"
+    },
+    "43031493": {
+      "title": "Alcohol and cardiovascular disease: inter-organ crosstalk, microvascular dysfunction, and cardiovascular ageing.",
+      "reported_at": "2026-11-15T01:33:11.263464"
+    },
+    "43018041": {
+      "title": "High on the Heart? Cannabis Use and Cardiovascular Disease: A Systematic Review.",
+      "reported_at": "2026-11-15T01:33:11.263464"
+    },
+    "43018066": {
+      "title": "Evaluating the Low-Density Lipoprotein Cholesterol Paradox in Heart Failure With Reduced Ejection Fraction.",
+      "reported_at": "2026-11-15T01:33:11.263464"
+    },
+    "43003106": {
+      "title": "Cardiovascular outcomes with survodutide in adults with obesity at increased cardiovascular risk (SYNCHRONIZE-CVOT): a double-blind, randomised, placebo-controlled, phase 3 trial.",
+      "reported_at": "2026-11-15T01:33:11.263464"
+    },
+    "43018043": {
+      "title": "Population Impact of the 2026 American College of Cardiology/American Heart Association Dyslipidemia Guideline on Lipid-Lowering Therapy Eligibility Among US Adults.",
+      "reported_at": "2026-11-15T01:33:11.263464"
     }
   }
 }
