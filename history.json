@@ -1,45 +1,5 @@
 {
   "reported_pmids": {
-    "42132177": {
-      "title": "Residual Angina Following Complete Revascularization in the ISCHEMIA Trial: Frequency, Clinical Characteristics, Health Status, and Cardiovascular Outcomes.",
-      "reported_at": "2026-05-20T10:31:45.042347"
-    },
-    "41796783": {
-      "title": "Outcomes in Patients With Acute Coronary Syndromes and Cancer Undergoing Percutaneous Coronary Intervention: A Systematic Review and Meta-Analysis.",
-      "reported_at": "2026-05-20T10:31:45.042347"
-    },
-    "41812921": {
-      "title": "Optimal Timing of Complete Revascularization in Patients With ST-Elevation Myocardial Infarction and Multivessel Disease: A Systematic Review and Meta-Analysis.",
-      "reported_at": "2026-05-20T10:31:45.042347"
-    },
-    "41771329": {
-      "title": "Side Branch Protection in Coronary Bifurcation Stenting: A Systematic Review and Meta-Analysis of Jailed Wire Versus Jailed Balloon Technique.",
-      "reported_at": "2026-05-20T10:31:45.042347"
-    },
-    "42158982": {
-      "title": "Clinical Impact of Myocardium at Risk in Transcatheter Aortic Valve Implantation.",
-      "reported_at": "2026-05-20T10:31:45.042347"
-    },
-    "41765253": {
-      "title": "DYNAMX Bioadaptor Implantation for Treatment of Complex Coronary Artery Disease: The DYNAMITE Study.",
-      "reported_at": "2026-05-20T23:16:45.897681"
-    },
-    "42089208": {
-      "title": "Sex Differences Among Young Patients With ST-Segment-Elevation Myocardial Infarction: A Systematic Review and Meta-Analysis.",
-      "reported_at": "2026-05-20T23:16:45.897681"
-    },
-    "41910504": {
-      "title": "Prehospital Heparin Administration in Patients With STEMI Undergoing Primary PCI: HEPARIN-STEMI Randomized Controlled Trial.",
-      "reported_at": "2026-05-20T23:16:45.897681"
-    },
-    "40156923": {
-      "title": "Deep learning electrocardiogram model for risk stratification of coronary revascularization need in the emergency department.",
-      "reported_at": "2026-05-20T23:16:45.897681"
-    },
-    "42132178": {
-      "title": "Procedural Success and Long-Term Outcomes of Percutaneous Coronary Intervention for Chronic Total Occlusion in Small Versus Large Vessels.",
-      "reported_at": "2026-05-20T23:16:45.897681"
-    },
     "42132182": {
       "title": "Optimal Exercise Modalities and Dosages for Blood Pressure Reduction in Adults With Prehypertension and Established Hypertension: A Network Meta-Analysis and Dose-Response Relationship Study.",
       "reported_at": "2026-05-21T23:06:11.300106"
@@ -3483,6 +3443,26 @@
     "43018069": {
       "title": "Rationale and Design of a Multicenter, Randomized Controlled Trial: LEAP-Block.",
       "reported_at": "2026-11-16T01:37:48.122288"
+    },
+    "43038430": {
+      "title": "Biatrial Versus Left Atrial Maze Ablation During Cardiac Valve Surgery for Persistent Atrial Fibrillation: The ABLATION Trial.",
+      "reported_at": "2026-11-17T04:21:57.642960"
+    },
+    "43038425": {
+      "title": "Surgical Treatment of Atrial Fibrillation.",
+      "reported_at": "2026-11-17T04:21:57.642960"
+    },
+    "43018506": {
+      "title": "Left Atrial Appendage Closure or Anticoagulation for Atrial Fibrillation: Navigating Heterogeneity in Clinical Evidence: JACC Evidence Review.",
+      "reported_at": "2026-11-17T04:21:57.642960"
+    },
+    "43020134": {
+      "title": "Atrial fibrillation begets atrial fibrillation revisited: Early entrenchment of AF episodes.",
+      "reported_at": "2026-11-17T04:21:57.642960"
+    },
+    "43017770": {
+      "title": "Proteomics and Risk of Incident Ischemic Stroke: Meta-Analysis of the ARIC Study and CHS.",
+      "reported_at": "2026-11-17T04:21:57.642960"
     }
   }
 }
