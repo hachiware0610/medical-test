@@ -1,25 +1,5 @@
 {
   "reported_pmids": {
-    "42132182": {
-      "title": "Optimal Exercise Modalities and Dosages for Blood Pressure Reduction in Adults With Prehypertension and Established Hypertension: A Network Meta-Analysis and Dose-Response Relationship Study.",
-      "reported_at": "2026-05-21T23:06:11.300106"
-    },
-    "42158981": {
-      "title": "Cluster Randomized Trial of Intensive Systolic Blood Pressure Control in Patients With Renal Cell or Thyroid Cancer Receiving VEGFR Tyrosine Kinase Inhibitors: ECOG-ACRIN EAQ191.",
-      "reported_at": "2026-05-21T23:06:11.300106"
-    },
-    "41759566": {
-      "title": "Diffuse Extra-Thoracic Vascular Disease in Nonsyndromic Thoracic Aortic Aneurysm and Dissection.",
-      "reported_at": "2026-05-21T23:06:11.300106"
-    },
-    "41824590": {
-      "title": "2026 ACC/AHA/AACVPR/ABC/ACPM/ADA/AGS/APhA/ASPC/NLA/PCNA Guideline on the Management of Dyslipidemia: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines.",
-      "reported_at": "2026-05-21T23:06:11.300106"
-    },
-    "42144123": {
-      "title": "Outcomes of Early Sodium-Glucose Cotransporter 2 Inhibitor Use in Takotsubo Syndrome: Insights from a Multicenter Real-World Cohort Study.",
-      "reported_at": "2026-05-21T23:06:11.300106"
-    },
     "40888584": {
       "title": "Surgical left atrial appendage occlusion in valvular heart disease without atrial fibrillation: the OPINION trial.",
       "reported_at": "2026-05-22T23:03:00.597224"
@@ -3463,6 +3443,26 @@
     "43017770": {
       "title": "Proteomics and Risk of Incident Ischemic Stroke: Meta-Analysis of the ARIC Study and CHS.",
       "reported_at": "2026-11-17T04:21:57.642960"
+    },
+    "42670968": {
+      "title": "Prasugrel versus Ticagrelor in Acute Coronary Syndromes.",
+      "reported_at": "2026-11-18T03:22:56.814039"
+    },
+    "42732848": {
+      "title": "Side-Branch Intervention After Crossover Stenting for Medina 0.0.1 and 0.1.0 Left Main Bifurcation Lesions (The Multicenter SIBIS Study).",
+      "reported_at": "2026-11-18T03:22:56.814039"
+    },
+    "43006184": {
+      "title": "Off-Pump Versus On-Pump Coronary Artery Bypass Grafting in Prefrail and Frail Patients: 30-Day and 1-Year Outcomes From the FRAGILE Randomized Trial.",
+      "reported_at": "2026-11-18T03:22:56.814039"
+    },
+    "43023216": {
+      "title": "Nonculprit Lesion Complexity and Timing of Complete Revascularization in Patients Presenting With Acute Coronary Syndrome and Multivessel Disease: Insights From the BIOVASC Trial.",
+      "reported_at": "2026-11-18T03:22:56.814039"
+    },
+    "43042474": {
+      "title": "Temporal and Vessel-Specific Relationship Between Post-PCI Fractional Flow Reserve and Long-Term Clinical Outcomes.",
+      "reported_at": "2026-11-18T03:22:56.814039"
     }
   }
 }
