@@ -1,25 +1,5 @@
 {
   "reported_pmids": {
-    "40888584": {
-      "title": "Surgical left atrial appendage occlusion in valvular heart disease without atrial fibrillation: the OPINION trial.",
-      "reported_at": "2026-05-22T23:03:00.597224"
-    },
-    "41416702": {
-      "title": "Mitral transcatheter edge-to-edge repair and outcomes according to baseline health status: the RESHAPE-HF2 trial.",
-      "reported_at": "2026-05-22T23:03:00.597224"
-    },
-    "40878834": {
-      "title": "Surgical myectomy for hypertrophic cardiomyopathy: procedural volume and outcomes.",
-      "reported_at": "2026-05-22T23:03:00.597224"
-    },
-    "42132195": {
-      "title": "Surgical Versus Transcatheter Aortic Valve Replacement in Bicuspid Aortic Stenosis: 1-Year Clinical Outcomes in Patients Aged 65 Years and Older.",
-      "reported_at": "2026-05-22T23:03:00.597224"
-    },
-    "41771332": {
-      "title": "Efficacy of Sodium-Glucose Cotransporter 2 Inhibitors in Heart Failure With Supra-Normal Ejection Fraction: A Target Trial Emulation Study.",
-      "reported_at": "2026-05-22T23:03:00.597224"
-    },
     "42168128": {
       "title": "Angina with non-obstructive coronary arteries and myocardial bridge: long-term outcomes of surgical unroofing.",
       "reported_at": "2026-05-23T22:56:23.510550"
@@ -3463,6 +3443,26 @@
     "43042474": {
       "title": "Temporal and Vessel-Specific Relationship Between Post-PCI Fractional Flow Reserve and Long-Term Clinical Outcomes.",
       "reported_at": "2026-11-18T03:22:56.814039"
+    },
+    "42905688": {
+      "title": "Obesity in Children Aged 2 to 12 Years: A Review.",
+      "reported_at": "2026-11-19T02:58:18.576333"
+    },
+    "43046964": {
+      "title": "PREVENT Risk Stratification for Intensive Blood Pressure Intervention and Life Expectancy in Rural China: A Post Hoc Analysis of the China Rural Hypertension Control Project.",
+      "reported_at": "2026-11-19T02:58:18.576333"
+    },
+    "43046965": {
+      "title": "Shifting the Pressure-Natriuresis Curve: The Cellular Mechanisms of Female Renal Resilience.",
+      "reported_at": "2026-11-19T02:58:18.576333"
+    },
+    "43018061": {
+      "title": "Poorly Controlled Hypertension Alters Coronary Microvascular Contractile Response to Endothelin-1 Before and After Cardiac Surgery.",
+      "reported_at": "2026-11-19T02:58:18.576333"
+    },
+    "43046968": {
+      "title": "2025 Harriet Dustan Lecture: Sex Differences in Immune-Mediated Hypertension: Why Menopause Matters.",
+      "reported_at": "2026-11-19T02:58:18.576333"
     }
   }
 }
