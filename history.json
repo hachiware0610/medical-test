@@ -1,25 +1,5 @@
 {
   "reported_pmids": {
-    "42168128": {
-      "title": "Angina with non-obstructive coronary arteries and myocardial bridge: long-term outcomes of surgical unroofing.",
-      "reported_at": "2026-05-23T22:56:23.510550"
-    },
-    "42160044": {
-      "title": "Weight Loss in Older Patients With Persistent Atrial Fibrillation: The LOSE-AF Randomized Clinical Trial.",
-      "reported_at": "2026-05-23T22:56:23.510550"
-    },
-    "42132184": {
-      "title": "Contemporary Overview of Aortic Regurgitation in Young Individuals: Insights From Real-Life Evidence.",
-      "reported_at": "2026-05-23T22:56:23.510550"
-    },
-    "42175572": {
-      "title": "Epicardial adipose tissue is associated with impaired outcomes in genotype-positive hypertrophic cardiomyopathy.",
-      "reported_at": "2026-05-23T22:56:23.510550"
-    },
-    "42171548": {
-      "title": "Diagnostic Accuracy of an Integrated Multimodality Imaging Approach in Patients With Cardiac Masses.",
-      "reported_at": "2026-05-23T22:56:23.510550"
-    },
     "42134976": {
       "title": "Effectiveness and Safety of Bempedoic Acid in Taiwanese Patients With Hypercholesterolemia: A Pragmatic Phase 4 Study (CLEAR Taiwan Study).",
       "reported_at": "2026-05-24T23:00:39.960679"
@@ -3463,6 +3443,22 @@
     "43046968": {
       "title": "2025 Harriet Dustan Lecture: Sex Differences in Immune-Mediated Hypertension: Why Menopause Matters.",
       "reported_at": "2026-11-19T02:58:18.576333"
+    },
+    "43036895": {
+      "title": "Peripheral Artery Disease in Acute Care Settings: Diagnosis and Management of Common Presentations and Emergencies: A Scientific Statement From the American Heart Association.",
+      "reported_at": "2026-11-20T02:52:54.318136"
+    },
+    "43038428": {
+      "title": "Degenerative Mitral Regurgitation: From Prolapse to Precision Therapy.",
+      "reported_at": "2026-11-20T02:52:54.318136"
+    },
+    "43038427": {
+      "title": "Transapical Beating-Heart Septal Myectomy for Obstructive Hypertrophic Cardiomyopathy.",
+      "reported_at": "2026-11-20T02:52:54.318136"
+    },
+    "42554679": {
+      "title": "Implementation of cardiac computed tomography in everyday practice.",
+      "reported_at": "2026-11-20T02:52:54.318136"
     }
   }
 }
