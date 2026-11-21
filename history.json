@@ -1,25 +1,5 @@
 {
   "reported_pmids": {
-    "42134976": {
-      "title": "Effectiveness and Safety of Bempedoic Acid in Taiwanese Patients With Hypercholesterolemia: A Pragmatic Phase 4 Study (CLEAR Taiwan Study).",
-      "reported_at": "2026-05-24T23:00:39.960679"
-    },
-    "42177117": {
-      "title": "The global burden of calcified aortic valve stenosis: epidemiology, risk factors, disparities, and future perspectives - a narrative review.",
-      "reported_at": "2026-05-24T23:00:39.960679"
-    },
-    "42154959": {
-      "title": "Aspirin vs clopidogrel in chronic coronary syndromes: a meta-analysis of ethnic differences.",
-      "reported_at": "2026-05-24T23:00:39.960679"
-    },
-    "42132198": {
-      "title": "Effect of Different Types of Whole Dietary Pulses on Established Therapeutic Lipid Targets for Cardiovascular Risk Reduction: An Updated Systematic Review and Dose-Response Meta-Analysis of Randomized Controlled Trials.",
-      "reported_at": "2026-05-24T23:00:39.960679"
-    },
-    "42155048": {
-      "title": "Lipoprotein apheresis in the era of new lipid-lowering therapies.",
-      "reported_at": "2026-05-24T23:00:39.960679"
-    },
     "42178507": {
       "title": "Cost-effectiveness of finerenone in heart failure with mildly reduced or preserved ejection fraction - Insights from FINEARTS-HF.",
       "reported_at": "2026-05-25T23:06:39.471249"
@@ -3459,6 +3439,26 @@
     "42554679": {
       "title": "Implementation of cardiac computed tomography in everyday practice.",
       "reported_at": "2026-11-20T02:52:54.318136"
+    },
+    "41563878": {
+      "title": "Photon-counting computed tomography: a revolution in cardiac imaging.",
+      "reported_at": "2026-11-21T03:00:36.626068"
+    },
+    "43048765": {
+      "title": "Heart Failure With Preserved Ejection Fraction in Low-Income Settings: Performance and Challenges of Screening Scores in a Population-Based Cohort in Haiti.",
+      "reported_at": "2026-11-21T03:00:36.626068"
+    },
+    "43018053": {
+      "title": "Adeno-Associated Virus-Induced Humanized Hypertensive Mouse Model Validates N-Acetylgalactosamine-Conjugated Small Interfering RNA Targeting Angiotensinogen as a Long-Acting Antihypertensive Therapy.",
+      "reported_at": "2026-11-21T03:00:36.626068"
+    },
+    "42700787": {
+      "title": "Three-dimensional Transesophageal Echocardiography in Prosthetic Valve Infective Endocarditis: Incremental Diagnostic Value, Outcome Prediction and Comparative Assessment With Native Valve Infective Endocarditis.",
+      "reported_at": "2026-11-21T03:00:36.626068"
+    },
+    "43035226": {
+      "title": "PREGNANCY OUTCOMES IN A CONTEMPORARY COHORT OF WOMEN WITH REPAIRED TETRALOGY OF FALLOT.",
+      "reported_at": "2026-11-21T03:00:36.626068"
     }
   }
 }
